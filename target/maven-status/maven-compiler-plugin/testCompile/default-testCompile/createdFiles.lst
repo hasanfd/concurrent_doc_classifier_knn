@@ -1,0 +1,8 @@
+com\machinelearning\doc_classifier\knn\similarityTest\CosineSimilarityTest.class
+com\machinelearning\doc_classifier\knnTest\FileComparatorTest.class
+com\machinelearning\doc_classifier\knn\coreTest\KNNClassifierTest$MockDocumentCache.class
+com\machinelearning\doc_classifier\knn\category_classifierTest\MajorityVoteClassifierTest.class
+com\machinelearning\doc_classifier\documentTest\DocumentTest.class
+com\machinelearning\doc_classifier\knn\coreTest\KNNClassifierTest$1ClassificationFilter.class
+com\machinelearning\doc_classifier\knn\coreTest\KNNClassifierTest.class
+com\machinelearning\doc_classifier\documentTest\DocumentFactoryTest.class

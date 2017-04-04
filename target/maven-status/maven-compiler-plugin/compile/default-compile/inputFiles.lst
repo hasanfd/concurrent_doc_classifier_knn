@@ -1,0 +1,15 @@
+D:\EPVYS-GELISTIRME\workspace-machine-learning\parallel_doc_classifier_knn\src\com\machinelearning\doc_classifier\knn\core\KNNClassificationInfo.java
+D:\EPVYS-GELISTIRME\workspace-machine-learning\parallel_doc_classifier_knn\src\com\machinelearning\doc_classifier\knn\category_classifier\KNNCategoryClassifier.java
+D:\EPVYS-GELISTIRME\workspace-machine-learning\parallel_doc_classifier_knn\src\com\machinelearning\doc_classifier\knn\FileComparator.java
+D:\EPVYS-GELISTIRME\workspace-machine-learning\parallel_doc_classifier_knn\src\com\machinelearning\doc_classifier\document\FileDocumentCache.java
+D:\EPVYS-GELISTIRME\workspace-machine-learning\parallel_doc_classifier_knn\src\com\machinelearning\doc_classifier\document\Document.java
+D:\EPVYS-GELISTIRME\workspace-machine-learning\parallel_doc_classifier_knn\src\com\machinelearning\doc_classifier\knn\similarity\CosineSimilarity.java
+D:\EPVYS-GELISTIRME\workspace-machine-learning\parallel_doc_classifier_knn\src\com\machinelearning\doc_classifier\document\DocumentCache.java
+D:\EPVYS-GELISTIRME\workspace-machine-learning\parallel_doc_classifier_knn\src\com\machinelearning\doc_classifier\knn\core\KNNClassifyTestDocumentThread.java
+D:\EPVYS-GELISTIRME\workspace-machine-learning\parallel_doc_classifier_knn\src\com\machinelearning\doc_classifier\knn\Main.java
+D:\EPVYS-GELISTIRME\workspace-machine-learning\parallel_doc_classifier_knn\src\com\machinelearning\doc_classifier\document\DocumentFactory.java
+D:\EPVYS-GELISTIRME\workspace-machine-learning\parallel_doc_classifier_knn\src\com\machinelearning\doc_classifier\knn\category_classifier\MajorityVoteClassifier.java
+D:\EPVYS-GELISTIRME\workspace-machine-learning\parallel_doc_classifier_knn\src\com\machinelearning\doc_classifier\knn\core\KNNClassifier.java
+D:\EPVYS-GELISTIRME\workspace-machine-learning\parallel_doc_classifier_knn\src\com\machinelearning\doc_classifier\knn\similarity\DocumentSimilarityMethod.java
+D:\EPVYS-GELISTIRME\workspace-machine-learning\parallel_doc_classifier_knn\src\com\machinelearning\doc_classifier\knn\core\KNNClassificationComparator.java
+D:\EPVYS-GELISTIRME\workspace-machine-learning\parallel_doc_classifier_knn\src\com\machinelearning\doc_classifier\knn\Utils.java
